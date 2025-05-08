@@ -40,5 +40,5 @@ The dashboard provides a comprehensive view of online sales across different dim
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) if you don’t already have it.
 3. Open the `.pbix` file in Power BI Desktop.
 4. Interact with the dashboard using slicers to filter by **quarter**, **category**, or **state**.
-
+5. Example:[Dashboard Preview](https://github.com/SakshiGhate/MADHAV-ECOMMERCE-SALES-DASHBOARD/blob/main/MADHAV%20ECOMMERCE%20SALES%20DASHBOARD.png)
 ---
