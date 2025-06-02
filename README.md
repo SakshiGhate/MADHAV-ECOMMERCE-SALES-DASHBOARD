@@ -33,6 +33,13 @@ The dashboard provides a comprehensive view of online sales across different dim
 - 📈 **Variety of Charts** – Includes bar, donut, clustered bar, line, area, scatter, and map visualizations  
 - 🔗 **Multi-table Data Modeling** – Created relationships across data tables for accurate, joined analysis
 
+ 
+ ## 🖼️ Screenshot
+
+![MADHAV ECOMMERCE SALES Dashboard]( https://github.com/SakshiGhate/MADHAV-ECOMMERCE-SALES-DASHBOARD/blob/main/MADHAV%20ECOMMERCE%20SALES%20DASHBOARD.png)
+
+> _The above screenshot represents the main HR Analytics dashboard with detailed breakdowns and visual insights._
+
 
 ## 🚀 How to Open the Project
 
